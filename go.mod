@@ -1,4 +1,4 @@
-module github.com/ncloudy/cast
+module github.com/cloudokyo/cast
 
 go 1.19
 

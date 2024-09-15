@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ncloudy/cast"
+	"github.com/cloudokyo/cast"
 )
 
 var testCasesStringSlice = [][]string{
